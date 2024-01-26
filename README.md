@@ -7,6 +7,7 @@ I Love to develop new web apps
 * 🖥️  See my portfolio at [My portfolio](http://myapp.dev)
 * ✉️  You can contact me at [ganeshlonare311@gmail.com](mailto:ganeshlonare311@gmail.com)
 * 🚀  I'm currently working on [Blog Website](http://github.com/ganeshlonare311/MERN-Blog-Website)
-* 🧠  I'm learning Reactjs , DSA and System Design
+* 🧠  I'm learning Reactjs and System Design
 * 🤝  I'm open to collaborating on Other Web Projects!
+
 
