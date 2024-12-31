@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Ganesh Lonare  
-**=====================================================================================================================================**
+# 👋 Hi, I'm Ganesh Lonare
 
 I am passionate about building innovative web applications and leveraging modern technologies to create impactful solutions.
 
