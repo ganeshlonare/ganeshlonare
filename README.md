@@ -47,8 +47,9 @@ A Lovable.dev-style platform that generates, previews, and runs applications fro
 `Spring Boot` `Spring AI` `RAG` `Kubernetes` `SSE` `Stripe`
 
 ### 🎯 [Career_Guide](https://github.com/ganeshlonare/Career_Guide) — AI Career Guidance Platform 🏆
-**1st Place, Smart India Hackathon 2025.** Generates personalized career roadmaps, weekly plans, and industry insights from a student's learning history and goals.
+**1st Place, Smart Idea Hackathon 2025.** Generates personalized career roadmaps, weekly plans, and industry insights from a student's learning history and goals.
 `Next.js` `TypeScript` `Spring Boot` `Zustand` `Recharts`
+🔗 [Live Demo](https://careerai-pro.vercel.app) · [Source Code](https://github.com/ganeshlonare/Career_Guide)
 
 ### 🏗️ [social-platform-project](https://github.com/ganeshlonare/social-platform-project) — Microservices Social Platform
 Event-driven backend with API Gateway, service discovery, and Kafka-based async communication.
