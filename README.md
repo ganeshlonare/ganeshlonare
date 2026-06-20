@@ -21,7 +21,7 @@ I build backend systems and the infrastructure that keeps them alive — CI/CD p
 
 - 🎓 Final-year B.Tech, Electronics & Computer Engineering — Sanjivani College of Engineering, Kopargaon (Graduating 2026)
 - 💼 Ex-Software Engineering & DevOps Intern @ **RedBeryl Tech Solutions** — built CI/CD pipelines, Grafana/Prometheus observability dashboards, and an **AutoHeal Engine** for automated incident recovery
-- 🏆 **1st Place, Smart India Hackathon 2025** — AI-Powered Career Guidance Platform
+- 🏆 **1st Place, Smart Idea Hackathon 2025** — AI-Powered Career Guidance Platform
 - 🧩 400+ problems solved across LeetCode & GeeksforGeeks
 - 🌱 Currently building **Idea2App** — an AI app-builder on Spring Boot + Spring AI + RAG
 - 📫 Reach me at **ganeshlonare311@gmail.com**
