@@ -55,19 +55,4 @@ A Lovable.dev-style platform that generates, previews, and runs applications fro
 Event-driven backend with API Gateway, service discovery, and Kafka-based async communication.
 `Spring Boot` `Kafka` `PostgreSQL` `Microservices`
 
-### 🏨 [BookMyStay](https://github.com/ganeshlonare/BookMyStay) — Booking Platform Backend
-Production-style backend for a vacation rental platform, inspired by Airbnb — auth, listings, search/filter, and booking flows.
-`Java` `Spring Boot` `Security`
-
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshlonare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshlonare&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshlonare&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
