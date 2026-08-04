@@ -2,7 +2,7 @@
 
 # Hi, I'm Ganesh Lonare 👋
 
-### Backend Engineer (Java · Spring Boot) | DevOps & Observability | Final-Year B.Tech
+### Backend Engineer (Java · Spring Boot) | DevOps & Observability
 
 I build backend systems and the infrastructure that keeps them alive — CI/CD pipelines, observability dashboards, and self-healing automation, plus AI-integrated platforms on Spring Boot.
 
